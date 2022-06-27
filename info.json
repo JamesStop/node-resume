@@ -1,0 +1,10 @@
+{
+	"name": "James Stoppani",
+	"website": "https://jamesstop.github.io/JamesStoppaniPortfolioSite/",
+	"linkedin": "https://www.linkedin.com/in/jamesstoppani/",
+	"github": "JamesStop",
+	"email": "stoppanij@gmail.com",
+	"resume": "https://jamesstop.github.io/JamesStoppaniPortfolioSite/assets/JamesStoppaniResume.pdf",
+	"proficientTechnologies": ["Javascript", "CSS", "HTML", "React", "Node"],
+	"otherSkills": ["Sudoku", "Minesweeper", "Saying the alphabet backwards fast"]
+}
